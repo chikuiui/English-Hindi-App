@@ -54,5 +54,18 @@
         </TextView>
     </LinearLayout>
 
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:src="@drawable/ic_arrow" />
+    <!-- Below this code is for ripple effect for each view . -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:attr/selectableItemBackground"/>
+
 
 </RelativeLayout>
