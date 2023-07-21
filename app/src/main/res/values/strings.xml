@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Eng-Hindi</string>
+    <string name="numbers">Numbers</string>
+    <string name="family">Family Members</string>
+    <string name="colors">Colors</string>
+    <string name="phrases">Phrases</string>
+    <string name="image">image will be set in java file</string>
+
+</resources>
